@@ -1,0 +1,14 @@
+E:\20songuyen\bin\Debug\net8.0\20songuyen.exe
+E:\20songuyen\bin\Debug\net8.0\20songuyen.deps.json
+E:\20songuyen\bin\Debug\net8.0\20songuyen.runtimeconfig.json
+E:\20songuyen\bin\Debug\net8.0\20songuyen.dll
+E:\20songuyen\bin\Debug\net8.0\20songuyen.pdb
+E:\20songuyen\obj\Debug\net8.0\20songuyen.GeneratedMSBuildEditorConfig.editorconfig
+E:\20songuyen\obj\Debug\net8.0\20songuyen.AssemblyInfoInputs.cache
+E:\20songuyen\obj\Debug\net8.0\20songuyen.AssemblyInfo.cs
+E:\20songuyen\obj\Debug\net8.0\20songuyen.csproj.CoreCompileInputs.cache
+E:\20songuyen\obj\Debug\net8.0\20songuyen.dll
+E:\20songuyen\obj\Debug\net8.0\refint\20songuyen.dll
+E:\20songuyen\obj\Debug\net8.0\20songuyen.pdb
+E:\20songuyen\obj\Debug\net8.0\20songuyen.genruntimeconfig.cache
+E:\20songuyen\obj\Debug\net8.0\ref\20songuyen.dll
